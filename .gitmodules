@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/comments"]
+	path = sites/all/modules/comments
+	url = https://github.com/moorebrett0/comment_buddy.git
